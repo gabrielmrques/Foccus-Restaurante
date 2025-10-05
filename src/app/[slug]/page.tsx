@@ -54,7 +54,7 @@ const RestaurantPage = async ({ params }: RestaurantPageProps) => {
           option="TAKEAWAY"
           buttonText="Para levar"
           imageAlt="Para levar"
-          imageUrl="/takeway.png "
+          imageUrl="/takeaway.png"
         />
       </div>
     </div>
@@ -62,3 +62,4 @@ const RestaurantPage = async ({ params }: RestaurantPageProps) => {
 };
 
 export default RestaurantPage;
+
