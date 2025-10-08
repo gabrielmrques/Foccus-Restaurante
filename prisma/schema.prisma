@@ -15,6 +15,7 @@ model Restaurant {
   description    String
   avatarImageUrl String
   coverImageUrl  String
+  brandColor     String?
   menuCategories MenuCategory[]
   products       Product[]
   orders         Order[]

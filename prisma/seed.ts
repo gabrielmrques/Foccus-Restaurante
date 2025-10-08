@@ -12,6 +12,7 @@ const main = async () => {
         name: "FSW Donalds",
         slug: "fsw-donalds",
         description: "O melhor fast food do mundo",
+        brandColor: "#FACC15",
         avatarImageUrl:
           "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQvcNP9rHlEJu1vCY5kLqzjf29HKaeN78Z6pRy",
         coverImageUrl:
